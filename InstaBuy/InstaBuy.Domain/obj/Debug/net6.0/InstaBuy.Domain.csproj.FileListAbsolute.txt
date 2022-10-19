@@ -1,0 +1,12 @@
+C:\desenvolvimento\InstaBuy\InstaBuy\InstaBuy.Domain\bin\Debug\net6.0\InstaBuy.Domain.deps.json
+C:\desenvolvimento\InstaBuy\InstaBuy\InstaBuy.Domain\bin\Debug\net6.0\InstaBuy.Domain.dll
+C:\desenvolvimento\InstaBuy\InstaBuy\InstaBuy.Domain\bin\Debug\net6.0\InstaBuy.Domain.pdb
+C:\desenvolvimento\InstaBuy\InstaBuy\InstaBuy.Domain\obj\Debug\net6.0\InstaBuy.Domain.csproj.AssemblyReference.cache
+C:\desenvolvimento\InstaBuy\InstaBuy\InstaBuy.Domain\obj\Debug\net6.0\InstaBuy.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\desenvolvimento\InstaBuy\InstaBuy\InstaBuy.Domain\obj\Debug\net6.0\InstaBuy.Domain.AssemblyInfoInputs.cache
+C:\desenvolvimento\InstaBuy\InstaBuy\InstaBuy.Domain\obj\Debug\net6.0\InstaBuy.Domain.AssemblyInfo.cs
+C:\desenvolvimento\InstaBuy\InstaBuy\InstaBuy.Domain\obj\Debug\net6.0\InstaBuy.Domain.csproj.CoreCompileInputs.cache
+C:\desenvolvimento\InstaBuy\InstaBuy\InstaBuy.Domain\obj\Debug\net6.0\InstaBuy.Domain.dll
+C:\desenvolvimento\InstaBuy\InstaBuy\InstaBuy.Domain\obj\Debug\net6.0\refint\InstaBuy.Domain.dll
+C:\desenvolvimento\InstaBuy\InstaBuy\InstaBuy.Domain\obj\Debug\net6.0\InstaBuy.Domain.pdb
+C:\desenvolvimento\InstaBuy\InstaBuy\InstaBuy.Domain\obj\Debug\net6.0\ref\InstaBuy.Domain.dll
